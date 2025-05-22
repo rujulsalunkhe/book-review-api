@@ -109,7 +109,7 @@ The diagram shows:
 - Each Book can have many Reviews.
 - Reviews are linked to both User and Book.
 
-![ER Diagram](assets/er-diagram.png)
+![ER Diagram](er-diagram.png)
 
 ---
 
